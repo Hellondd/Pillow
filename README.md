@@ -37,7 +37,7 @@
    pip install Pillow orjson
 
 ## Структура проекта
-
+``` 
 py_watermarker/
 │
 ├── main.py           # Точка входа, оркестрация обработки
